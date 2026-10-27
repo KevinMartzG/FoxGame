@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Zorro Aventura</string>
+    <string name="title_activity_main">Zorro Aventura</string>
+    <string name="package_name">com.kevin.zorroaventura</string>
+    <string name="custom_url_scheme">com.kevin.zorroaventura</string>
+</resources>

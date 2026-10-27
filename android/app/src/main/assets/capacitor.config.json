@@ -1,0 +1,9 @@
+{
+	"appId": "com.kevin.zorroaventura",
+	"appName": "Zorro Aventura",
+	"webDir": "www",
+	"backgroundColor": "#14101f",
+	"android": {
+		"allowMixedContent": false
+	}
+}
